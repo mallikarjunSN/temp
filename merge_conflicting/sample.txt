@@ -3,4 +3,4 @@ data in commit 2
 data in commit 3
 data in commit 4
 
-line to be removed
+line to be removed ++ 
